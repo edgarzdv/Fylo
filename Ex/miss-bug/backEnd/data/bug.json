@@ -1,0 +1,79 @@
+[
+  {
+    "_id": "abc123",
+    "title": "Cannot save a Car",
+    "description": "problem when clicking Save",
+    "severity": 3,
+    "createdAt": 1542107359454,
+    "creator": {
+      "_id": "xyz111",
+      "name": "Shahar"
+    }
+  },
+  {
+    "_id": "abc1wd23",
+    "title": "Issues with the PC",
+    "description": "problem when clicking Save",
+    "severity": 1,
+    "createdAt": 1542107359454,
+    "creator": {
+      "_id": "xyz111",
+      "name": "Shahar"
+    }
+  },
+  {
+    "_id": "abc1dwef23",
+    "title": "Issues with the PC",
+    "description": "problem when clicking Save",
+    "severity": 1,
+    "createdAt": 1542107359454,
+    "creator": {
+      "_id": "xyz111",
+      "name": "Shahar"
+    }
+  },
+  {
+    "_id": "abc1d2323",
+    "title": "Issues with the PC",
+    "description": "problem when clicking Save",
+    "severity": 1,
+    "createdAt": 1542107359454,
+    "creator": {
+      "_id": "xyz111",
+      "name": "Shahar"
+    }
+  },
+  {
+    "_id": "abcd31d23",
+    "title": "Issues with the Laptop",
+    "description": "problem when clicking Save",
+    "severity": 1,
+    "createdAt": 1542107359454,
+    "creator": {
+      "_id": "xyz111",
+      "name": "Shahar"
+    }
+  },
+  {
+    "_id": "a3bc1d23",
+    "title": "Issues with the Mobile phone",
+    "description": "problem when clicking Save",
+    "severity": 1,
+    "createdAt": 1542107359454,
+    "creator": {
+      "_id": "xyz111",
+      "name": "Shahar"
+    }
+  },
+  {
+    "_id": "vlyy6r2psn",
+    "title": "etbe",
+    "description": "erb",
+    "createdAt": 1578085250921,
+    "creator": {
+      "_id": "u2",
+      "userName": "muki",
+      "isAdmin": false
+    }
+  }
+]
