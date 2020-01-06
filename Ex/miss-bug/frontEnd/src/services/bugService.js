@@ -1,5 +1,8 @@
 import axios from 'axios';
-const BUG_URL = 'http://localhost:3002/api/bug';
+// const BUG_URL = 'http://localhost:3030/api/bug';
+
+const BUG_URL = (process.env.NODE_ENV !== 'development') ? '/api/bug'
+               : '//localhost:3000/api/bug';
 const Axios = axios.create({
     withCredentials: true
   });
