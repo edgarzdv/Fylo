@@ -1,0 +1,37 @@
+* {
+    box-sizing: border-box;
+}
+
+html {
+    font-family: Open-sans, sans-serif;
+    line-height: 1.6;
+    color: #fff;
+}
+
+body {
+    margin: 0;
+}
+
+ul {
+    list-style-type: none;
+  }
+
+img {
+    width: 100%;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: caveat, serif;
+    margin-top: 0;
+    font-weight: normal;
+}
+
+h1 {
+    font-size: rem(60px);
+    margin-bottom: rem(20px);
+}
+
+p {
+    margin: 0 0 rem(12px);
+    max-width: 60ch;
+}
