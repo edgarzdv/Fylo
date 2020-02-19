@@ -1,0 +1,19 @@
+.nav-bar{
+    padding: 75px 80px;
+    color: #fff;
+
+    ul{
+        &>li:not(:last-child) {
+            margin-right: 58px;
+        }
+
+    }
+}
+
+.logo{
+    background-image: url('../../imgs/logo.svg');
+    background-repeat: no-repeat;
+    height: 70px;
+    width: 185px;
+}
+

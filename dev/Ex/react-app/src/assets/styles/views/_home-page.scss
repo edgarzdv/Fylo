@@ -1,0 +1,160 @@
+
+.app {
+    background-color: #1b2330;
+}
+
+.main-header{
+    padding-left: 360px;
+    padding-right: 360px;
+    color: #fff;
+
+    button {
+        width: 280px;
+        height: 56px;
+        margin-top: 35px;
+        background-image: linear-gradient(152deg, #63e1d9 0%, #34a0cd 100%);
+        border: none;
+        border-radius: 28px;
+        font-family: Raleway;
+        font-size: 16px;
+        font-weight: 700;
+    }
+}
+
+.main-hero{
+    background-image: url('../../imgs/illustration-intro.png');
+    width: 720px;
+    height: 500px;
+    background-size: 720px;
+    background-repeat: no-repeat;
+}
+
+.hero-title{
+    font-size: 2.5rem;
+    font-family: Raleway;
+    line-height: 1.75;
+    font-weight: 700;
+    padding: 38px 0;
+    margin: 0;
+}
+
+.home-page{
+    color: #fff;
+    display: grid;
+    padding: 0 280px;
+    grid-template-columns: 1fr 1fr;
+}
+
+.card{
+    width: 350px;
+
+    h2{
+        font-family: Raleway;
+    }
+
+}
+
+.card-img1{
+    background-image: url('../../imgs/icon-access-anywhere.svg');
+    background-repeat: no-repeat;
+    width: 80px;
+    height: 80px;
+    background-size: 75px;
+}
+
+.card-img2{
+    background-image: url('../../imgs/icon-access-anywhere.svg');
+    background-repeat: no-repeat;
+    width: 80px;
+    height: 80px;
+    background-size: 75px;
+}
+
+.card-img3{
+    background-image: url('../../imgs/icon-access-anywhere.svg');
+    background-repeat: no-repeat;
+    width: 80px;
+    height: 80px;
+    background-size: 75px;
+}
+
+.card-img4{
+    background-image: url('../../imgs/icon-access-anywhere.svg');
+    background-repeat: no-repeat;
+    width: 80px;
+    height: 80px;
+    background-size: 75px;
+}
+
+.section-img{
+    background-image: url('../../imgs/illustration-stay-productive.png');
+    width: 647px;
+    height: 443px;
+    margin-right: 50px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.productive-section{
+    margin: 20px 150px;
+    h2{
+        font-family: Raleway;
+        font-size: 2.5rem;
+        font-weight: 700;
+    }
+}
+
+.comments-cards{
+  margin: 50px 140px;
+
+  padding: 0;
+
+  .comment-card {
+    width: 360px;
+    height: 250px;
+    box-shadow: 5px 5px 8px 4px rgba(56, 56, 56, 0.1);
+    border-radius: 4px;
+    background-color: #202a3c;
+    padding: 40px 25px;
+  
+
+  }
+
+  &>.comment-card:not(:last-child) {
+    margin-right: 40px;
+}
+
+  .user-container{
+    h2{
+     font-size: 0.625rem;
+        }
+  }
+}
+
+.user-img1{
+    background-image: url('../../imgs/profile-1.jpg');
+    background-repeat: no-repeat;
+    width: 30px;
+    height: 30px;
+    background-size: cover;
+    border-radius: 50%;
+}
+
+.user-img2{
+    background-image: url('../../imgs/profile-2.jpg');
+    background-repeat: no-repeat;
+    width: 30px;
+    height: 30px;
+    background-size: cover;
+    border-radius: 50%;
+}
+
+.user-img3{
+    background-image: url('../../imgs/profile-3.jpg');
+    background-repeat: no-repeat;
+    width: 30px;
+    height: 30px;
+    background-size: cover;
+    border-radius: 50%;
+}
+
